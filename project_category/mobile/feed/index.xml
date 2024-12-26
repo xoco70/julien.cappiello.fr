@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Accueil - Julien Cappiello - Freelance Fullstack Dev</title>
+	<atom:link href="/project_category/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 23 Oct 2024 05:25:52 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Plateforme RH: ControlPlus</title>
+		<link>/project/plateforme-rh-controlplus/</link>
+		
+		<dc:creator><![CDATA[julien]]></dc:creator>
+		<pubDate>Sun, 22 Oct 2017 13:44:29 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=project#038;p=1488</guid>
+
+					<description><![CDATA[<p>Controlplus est un plateforme RH au Mexique</p>
+<p>The post <a href="/project/plateforme-rh-controlplus/">Plateforme RH: ControlPlus</a> appeared first on <a href="/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="p1">En tant que <strong>Tech Lead</strong> chez SP Marketing / T4B au Mexique, j’ai dirigé le développement de <i>Control+</i>, une plateforme en ligne dédiée aux ressources humaines. Mon rôle comprenait la définition des technologies à utiliser, le recrutement d’une équipe technique de <strong>dix personnes</strong>, et l’établissement du <strong>workflow</strong> de développement. J&rsquo;ai aussi mis en place des workshops, afin de former l&rsquo;équipe aux bonnes pratiques avec Laravel, introduire des Design Patterns, etc. J’ai également défini les guidelines fonctionnels et visuels, géré l’infrastructure cloud sur <strong>Amazon Web Services</strong>, et mis en place un pipeline de CI/CD scalable avec Elastic Beanstalk. La plateforme de build reposait sur <strong>Jenkins</strong>, la qualité du code était suivie avec <strong>Sonar</strong>, et le bug tracking se faisait via <strong>Sentry</strong>. En plus de ce projet, j’ai développé et supervisé l’application Android native <i>SP Mobile</i>, destinée à la gestion des forces de ventes avec des fonctionnalités de CheckIn, Checkout et gestion des données en temps réel. Mon travail comprenait la conception de l’application Mobile <strong>Android</strong> (Java 8), l’intégration de l’API GMaps et GPS, et la gestion de la maintenance des API REST (PHP / Yii). J’ai également supervisé la création de multiples sites <strong>WordPress</strong> et assuré le suivi des bonnes pratiques au sein de l’équipe de développement.</p>
+<p class="p1"><b>Stack technique</b> : PHP/Laravel, AWS, Git/GitHub, Elastic Beanstalk, Jenkins, Sonar, Sentry, Android (Java 8), GMaps API, GPS, WordPress.”</p>
+<p>The post <a href="/project/plateforme-rh-controlplus/">Plateforme RH: ControlPlus</a> appeared first on <a href="/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

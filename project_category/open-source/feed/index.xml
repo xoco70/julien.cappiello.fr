@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Accueil - Julien Cappiello - Freelance Fullstack Dev</title>
+	<atom:link href="/project_category/open-source/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Oct 2024 14:11:24 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Kendozone: Create tournaments in instants</title>
+		<link>/project/signal-a-real-time-chat-and-collaboration-platform/</link>
+		
+		<dc:creator><![CDATA[julien]]></dc:creator>
+		<pubDate>Mon, 26 Mar 2018 16:56:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=project#038;p=758</guid>
+
+					<description><![CDATA[<p>Projet Open Source : Création de tournois de kendo</p>
+<p>The post <a href="/project/signal-a-real-time-chat-and-collaboration-platform/">Kendozone: Create tournaments in instants</a> appeared first on <a href="/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-1"><p>Créez des tournois, invitez des compétiteurs, et générez les arbres de compétition selon l&rsquo;algorithme choisi.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Création et configuration de tournois</li>
+<li>Créer et configurer des championnats en fonction de la catégorie</li>
+<li>Invitation en masse ou ajout manuelle de concurrents</li>
+<li>Génération d&rsquo;arbres (basé sur le plugin <a href="https://github.com/xoco70/laravel-tournaments"><u>Laravel tournament</u></a> )</li>
+<li>Gestion des équipes</li>
+<li>Génération de documentation : Liste des combats, feuilles de score</li>
+<li>Gestion des compétiteurs / Clubs / Associations / Fédérations</li>
+<li>Multilingue : Traduit en 4 langues : Anglais, Français, Espagnol, Japonais. <a href="https://lokalise.co/signup/9206592359c17cdcafd822.29517217/all/"><u>Aide à la traduction</u></a></li>
+</ul>
+<p>Stack : PHP7 / Laravel 5.7 / MySQL  / JQuery</p>
+<p>Vous pouvez consulter ce projet Open Source sur Github : <a href="https://github.com/xoco70/kendozone">Kendozone</a></p>
+<p>Il existe un projet inachevé de migration à Angular 6 : <a href="https://github.com/xoco70/kz-front">kz-front</a>, <a href="https://github.com/xoco70/kz-api">kz-api</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div><div class="awb-gallery-wrapper awb-gallery-wrapper-1 button-span-no" style="--more-btn-alignment:center;"><div style="margin:-5px;--awb-bordersize:0px;" class="fusion-gallery fusion-gallery-container fusion-grid-3 fusion-columns-total-6 fusion-gallery-layout-grid fusion-gallery-1"><div style="padding:5px;" class="fusion-grid-column fusion-gallery-column fusion-gallery-column-3 hover-type-none"><div class="fusion-gallery-image"><a href="/wp-content/uploads/2023/03/UI1_KZ-1.png" rel="noreferrer" data-rel="iLightbox[gallery_image_1]" class="fusion-lightbox" target="_self"><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2023/03/UI1_KZ-1.png" width="3334" height="2453" alt="" title="UI1_KZ-1" aria-label="UI1_KZ-1" class="img-responsive wp-image-1449" srcset="/wp-content/uploads/2023/03/UI1_KZ-1-200x147.png 200w, /wp-content/uploads/2023/03/UI1_KZ-1-400x294.png 400w, /wp-content/uploads/2023/03/UI1_KZ-1-600x441.png 600w, /wp-content/uploads/2023/03/UI1_KZ-1-800x589.png 800w, /wp-content/uploads/2023/03/UI1_KZ-1-1200x883.png 1200w, /wp-content/uploads/2023/03/UI1_KZ-1.png 3334w" sizes="(min-width: 2200px) 100vw, (min-width: 784px) 397px, (min-width: 712px) 595px, (min-width: 640px) 712px, " /></a></div></div><div style="padding:5px;" class="fusion-grid-column fusion-gallery-column fusion-gallery-column-3 hover-type-none"><div class="fusion-gallery-image"><a href="/wp-content/uploads/2023/03/UI1_KZ-2.png" rel="noreferrer" data-rel="iLightbox[gallery_image_1]" class="fusion-lightbox" target="_self"><img decoding="async" src="/wp-content/uploads/2023/03/UI1_KZ-2.png" width="3334" height="2453" alt="" title="UI1_KZ-2" aria-label="UI1_KZ-2" class="img-responsive wp-image-1450" srcset="/wp-content/uploads/2023/03/UI1_KZ-2-200x147.png 200w, /wp-content/uploads/2023/03/UI1_KZ-2-400x294.png 400w, /wp-content/uploads/2023/03/UI1_KZ-2-600x441.png 600w, /wp-content/uploads/2023/03/UI1_KZ-2-800x589.png 800w, /wp-content/uploads/2023/03/UI1_KZ-2-1200x883.png 1200w, /wp-content/uploads/2023/03/UI1_KZ-2.png 3334w" sizes="(min-width: 2200px) 100vw, (min-width: 784px) 397px, (min-width: 712px) 595px, (min-width: 640px) 712px, " /></a></div></div><div style="padding:5px;" class="fusion-grid-column fusion-gallery-column fusion-gallery-column-3 hover-type-none"><div class="fusion-gallery-image"><a href="/wp-content/uploads/2023/03/UI1_KZ-3.png" rel="noreferrer" data-rel="iLightbox[gallery_image_1]" class="fusion-lightbox" target="_self"><img decoding="async" src="/wp-content/uploads/2023/03/UI1_KZ-3.png" width="3334" height="2453" alt="" title="UI1_KZ-3" aria-label="UI1_KZ-3" class="img-responsive wp-image-1451" srcset="/wp-content/uploads/2023/03/UI1_KZ-3-200x147.png 200w, /wp-content/uploads/2023/03/UI1_KZ-3-400x294.png 400w, /wp-content/uploads/2023/03/UI1_KZ-3-600x441.png 600w, /wp-content/uploads/2023/03/UI1_KZ-3-800x589.png 800w, /wp-content/uploads/2023/03/UI1_KZ-3-1200x883.png 1200w, /wp-content/uploads/2023/03/UI1_KZ-3.png 3334w" sizes="(min-width: 2200px) 100vw, (min-width: 784px) 397px, (min-width: 712px) 595px, (min-width: 640px) 712px, " /></a></div></div><div class="clearfix"></div><div style="padding:5px;" class="fusion-grid-column fusion-gallery-column fusion-gallery-column-3 hover-type-none"><div class="fusion-gallery-image"><a href="/wp-content/uploads/2023/03/UI1_KZ-4.png" rel="noreferrer" data-rel="iLightbox[gallery_image_1]" class="fusion-lightbox" target="_self"><img decoding="async" src="/wp-content/uploads/2023/03/UI1_KZ-4.png" width="3334" height="7530" alt="" title="UI1_KZ-4" aria-label="UI1_KZ-4" class="img-responsive wp-image-1452" srcset="/wp-content/uploads/2023/03/UI1_KZ-4-200x452.png 200w, /wp-content/uploads/2023/03/UI1_KZ-4-400x903.png 400w, /wp-content/uploads/2023/03/UI1_KZ-4-600x1355.png 600w, /wp-content/uploads/2023/03/UI1_KZ-4-800x1807.png 800w, /wp-content/uploads/2023/03/UI1_KZ-4-1200x2710.png 1200w, /wp-content/uploads/2023/03/UI1_KZ-4.png 3334w" sizes="(min-width: 2200px) 100vw, (min-width: 784px) 397px, (min-width: 712px) 595px, (min-width: 640px) 712px, " /></a></div></div><div style="padding:5px;" class="fusion-grid-column fusion-gallery-column fusion-gallery-column-3 hover-type-none"><div class="fusion-gallery-image"><a href="/wp-content/uploads/2023/03/UI1_KZ-5.png" rel="noreferrer" data-rel="iLightbox[gallery_image_1]" class="fusion-lightbox" target="_self"><img decoding="async" src="/wp-content/uploads/2023/03/UI1_KZ-5.png" width="3334" height="2453" alt="" title="UI1_KZ-5" aria-label="UI1_KZ-5" class="img-responsive wp-image-1453" srcset="/wp-content/uploads/2023/03/UI1_KZ-5-200x147.png 200w, /wp-content/uploads/2023/03/UI1_KZ-5-400x294.png 400w, /wp-content/uploads/2023/03/UI1_KZ-5-600x441.png 600w, /wp-content/uploads/2023/03/UI1_KZ-5-800x589.png 800w, /wp-content/uploads/2023/03/UI1_KZ-5-1200x883.png 1200w, /wp-content/uploads/2023/03/UI1_KZ-5.png 3334w" sizes="(min-width: 2200px) 100vw, (min-width: 784px) 397px, (min-width: 712px) 595px, (min-width: 640px) 712px, " /></a></div></div><div style="padding:5px;" class="fusion-grid-column fusion-gallery-column fusion-gallery-column-3 hover-type-none"><div class="fusion-gallery-image"><a href="/wp-content/uploads/2023/03/UI1_KZ-6.png" rel="noreferrer" data-rel="iLightbox[gallery_image_1]" class="fusion-lightbox" target="_self"><img decoding="async" src="/wp-content/uploads/2023/03/UI1_KZ-6.png" width="3334" height="2453" alt="" title="UI1_KZ-6" aria-label="UI1_KZ-6" class="img-responsive wp-image-1454" srcset="/wp-content/uploads/2023/03/UI1_KZ-6-200x147.png 200w, /wp-content/uploads/2023/03/UI1_KZ-6-400x294.png 400w, /wp-content/uploads/2023/03/UI1_KZ-6-600x441.png 600w, /wp-content/uploads/2023/03/UI1_KZ-6-800x589.png 800w, /wp-content/uploads/2023/03/UI1_KZ-6-1200x883.png 1200w, /wp-content/uploads/2023/03/UI1_KZ-6.png 3334w" sizes="(min-width: 2200px) 100vw, (min-width: 784px) 397px, (min-width: 712px) 595px, (min-width: 640px) 712px, " /></a></div></div><div class="clearfix"></div></div></div></div></div></div></div><p>The post <a href="/project/signal-a-real-time-chat-and-collaboration-platform/">Kendozone: Create tournaments in instants</a> appeared first on <a href="/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
