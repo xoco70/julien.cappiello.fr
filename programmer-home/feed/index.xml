@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Accueil	</title>
-	<atom:link href="/programmer-home/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://xoco70.github.io/julien.cappiello.fr/programmer-home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xoco70.github.io/julien.cappiello.fr/</link>
 	<description></description>
 	<lastBuildDate>Wed, 23 Oct 2024 08:01:39 +0000</lastBuildDate>
 	<sy:updatePeriod>

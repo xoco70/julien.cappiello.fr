@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Accueil - Julien Cappiello - Freelance Fullstack Dev</title>
-	<atom:link href="/project_category/machine-learning/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://xoco70.github.io/julien.cappiello.fr/project_category/machine-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xoco70.github.io/julien.cappiello.fr/</link>
 	<description></description>
 	<lastBuildDate>Wed, 23 Oct 2024 05:20:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Box GEN4 &#8211; Comwatt</title>
-		<link>/project/box-gen4-comwatt/</link>
+		<link>https://xoco70.github.io/julien.cappiello.fr/project/box-gen4-comwatt/</link>
 		
 		<dc:creator><![CDATA[julien]]></dc:creator>
 		<pubDate>Sat, 22 Oct 2022 11:59:49 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=project#038;p=1482</guid>
+				<guid isPermaLink="false">https://xoco70.github.io/julien.cappiello.fr/?post_type=project#038;p=1482</guid>
 
 					<description><![CDATA[<p>La Box GEN4 Comwatt permet de gérer en temps réel la production et la consommation d’énergie renouvelable grâce à une box intelligente, optimisant l’autoconsommation pour réduire la dépendance au réseau.</p>
-<p>The post <a href="/project/box-gen4-comwatt/">Box GEN4 &#8211; Comwatt</a> appeared first on <a href="/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
+<p>The post <a href="https://xoco70.github.io/julien.cappiello.fr/project/box-gen4-comwatt/">Box GEN4 &#8211; Comwatt</a> appeared first on <a href="https://xoco70.github.io/julien.cappiello.fr/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p class="p1">Chez <strong>Comwatt</strong>, j’ai dirigé l’équipe MSC, chargée du développement et de l’exploitation d’un parc de 10 000 boxes IoT en <strong>temps réel</strong>, permettant le <strong>pilotage</strong> d’équipements électriques énergivores. Ce projet a combiné plusieurs technologies et compétences, allant du développement <strong>logiciel</strong>, <strong>web</strong>, à l’intégration de l’<strong>IoT</strong>, de <strong>pipelines de données</strong> et de <strong>machine learning</strong>, tout en incluant le développement de <strong>firmware</strong>.</p>
 <p class="p1"><strong>Stack Technique</strong>: Java, React, Kafka, Kubernetes, GCP, Azure, Terraform, React Native, Scala et Python.</p>
-<p>The post <a href="/project/box-gen4-comwatt/">Box GEN4 &#8211; Comwatt</a> appeared first on <a href="/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
+<p>The post <a href="https://xoco70.github.io/julien.cappiello.fr/project/box-gen4-comwatt/">Box GEN4 &#8211; Comwatt</a> appeared first on <a href="https://xoco70.github.io/julien.cappiello.fr/">Julien Cappiello - Freelance Fullstack Dev</a>.</p>
 ]]></content:encoded>
 					
 		

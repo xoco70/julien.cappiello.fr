@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Commentaires pour Julien Cappiello &#8211; Freelance Fullstack Dev	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xoco70.github.io/julien.cappiello.fr/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Sat, 19 Oct 2024 16:48:10 +0000</lastBuildDate>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Commentaires sur Hello world! par A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		<link>https://xoco70.github.io/julien.cappiello.fr/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 19 Oct 2024 16:48:10 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://xoco70.github.io/julien.cappiello.fr/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
@@ -38,11 +38,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Commentaires sur 10 Tips to Write Clean and Maintainable Code par danyduchaine		</title>
-		<link>/10-tips-to-write-clean-and-maintainable-code/#comment-2</link>
+		<link>https://xoco70.github.io/julien.cappiello.fr/10-tips-to-write-clean-and-maintainable-code/#comment-2</link>
 
 		<dc:creator><![CDATA[danyduchaine]]></dc:creator>
 		<pubDate>Fri, 26 May 2023 15:23:34 +0000</pubDate>
-		<guid isPermaLink="false">/?p=630#comment-2</guid>
+		<guid isPermaLink="false">https://xoco70.github.io/julien.cappiello.fr/?p=630#comment-2</guid>
 
 					<description><![CDATA[Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros.]]></description>
 			<content:encoded><![CDATA[<p>Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros.</p>
@@ -52,11 +52,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Commentaires sur The Ultimate Guide to Debugging Tools and Techniques par danyduchaine		</title>
-		<link>/the-ultimate-guide-to-debugging-tools-and-techniques/#comment-3</link>
+		<link>https://xoco70.github.io/julien.cappiello.fr/the-ultimate-guide-to-debugging-tools-and-techniques/#comment-3</link>
 
 		<dc:creator><![CDATA[danyduchaine]]></dc:creator>
 		<pubDate>Fri, 26 May 2023 15:17:34 +0000</pubDate>
-		<guid isPermaLink="false">/?p=634#comment-3</guid>
+		<guid isPermaLink="false">https://xoco70.github.io/julien.cappiello.fr/?p=634#comment-3</guid>
 
 					<description><![CDATA[Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc sed turpis. Vestibulum eu odio.]]></description>
 			<content:encoded><![CDATA[<p>Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc sed turpis. Vestibulum eu odio.</p>

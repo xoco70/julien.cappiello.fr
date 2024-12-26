@@ -1,105 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://xoco70.github.io/julien.cappiello.fr/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/project/signal-a-real-time-chat-and-collaboration-platform/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/signal-a-real-time-chat-and-collaboration-platform/</loc>
 		<lastmod>2024-10-22T14:11:24+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/kendozone-header.jpg</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2023/03/kendozone-header.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/UI1_KZ-1-300x221.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2023/03/UI1_KZ-1-300x221.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/UI1_KZ-2.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2023/03/UI1_KZ-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/UI1_KZ-3.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2023/03/UI1_KZ-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/UI1_KZ-4.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2023/03/UI1_KZ-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/UI1_KZ-5.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2023/03/UI1_KZ-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/UI1_KZ-6.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2023/03/UI1_KZ-6.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/catalogue-raisonne-de-leonetto-cappiello/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/catalogue-raisonne-de-leonetto-cappiello/</loc>
 		<lastmod>2024-10-22T14:30:31+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/affiche-chocolat-klaus-cappiello-1903.jpg</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/affiche-chocolat-klaus-cappiello-1903.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/catalogue-cappiello-fr-homapage.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/catalogue-cappiello-fr-homapage.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/catalogue-cappiello-fr-les-oeuvres.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/catalogue-cappiello-fr-les-oeuvres.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/catalogue-cappiello-fr-creation-dune-affiche.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/catalogue-cappiello-fr-creation-dune-affiche.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/cappiello-fr/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/cappiello-fr/</loc>
 		<lastmod>2024-10-22T14:35:12+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/site-cappiello-fr.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/site-cappiello-fr.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/cappiello-fr-600x523.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/cappiello-fr-600x523.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/vinyaqui/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/vinyaqui/</loc>
 		<lastmod>2024-10-23T05:18:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/site-visites-oenotouristiques-ecologiques-vinyaqui.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/site-visites-oenotouristiques-ecologiques-vinyaqui.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/box-gen4-comwatt/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/box-gen4-comwatt/</loc>
 		<lastmod>2024-10-23T05:20:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/box_vue1.jpg</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/box_vue1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/sunchain/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/sunchain/</loc>
 		<lastmod>2024-10-23T05:22:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Capture-decran-2024-10-22-a-12.18.13.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/Capture-decran-2024-10-22-a-12.18.13.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Capture-decran-2024-10-22-a-12.10.50-1.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/Capture-decran-2024-10-22-a-12.10.50-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/app-sunchain-2.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/app-sunchain-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/App-Sunchain.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/App-Sunchain.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/mayra-orozco-graphist-designer/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/mayra-orozco-graphist-designer/</loc>
 		<lastmod>2024-10-23T05:23:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/site-web-mayorozco.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/site-web-mayorozco.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/athena-project-thales-services/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/athena-project-thales-services/</loc>
 		<lastmod>2024-10-23T05:25:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/athena.jpg</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/athena.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/plateforme-rh-controlplus/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project/plateforme-rh-controlplus/</loc>
 		<lastmod>2024-10-23T05:25:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/logo.png</image:loc>
+			<image:loc>https://xoco70.github.io/julien.cappiello.fr/wp-content/uploads/2024/10/logo.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://xoco70.github.io/julien.cappiello.fr/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/project_category/blockchain/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/blockchain/</loc>
 		<lastmod>2024-10-23T05:22:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/devops/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/devops/</loc>
 		<lastmod>2024-10-23T05:25:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/direction/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/direction/</loc>
 		<lastmod>2024-10-23T05:20:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/iot/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/iot/</loc>
 		<lastmod>2024-10-23T05:22:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/machine-learning/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/machine-learning/</loc>
 		<lastmod>2024-10-23T05:20:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/mobile/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/mobile/</loc>
 		<lastmod>2024-10-23T05:25:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/open-source/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/open-source/</loc>
 		<lastmod>2024-10-22T14:11:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/site-web/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/site-web/</loc>
 		<lastmod>2024-10-23T05:23:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/web-app/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/web-app/</loc>
 		<lastmod>2024-10-23T05:25:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/woocommerce/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/woocommerce/</loc>
 		<lastmod>2024-10-22T14:30:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project_category/wordpress/</loc>
+		<loc>https://xoco70.github.io/julien.cappiello.fr/project_category/wordpress/</loc>
 		<lastmod>2024-10-23T05:23:00+00:00</lastmod>
 	</url>
 </urlset>
